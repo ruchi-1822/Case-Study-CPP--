@@ -1,5 +1,4 @@
 //Ruchi Chaturvedi
-//A_12
 //Case Study: Simple Banking System using File Handling
 #include <iostream>
 #include<iostream>
